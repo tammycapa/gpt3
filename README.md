@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Modern UI/UX GPT-3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was done following the https://www.youtube.com/watch?v=F627pKNUCVQ&t=831s&ab_channel=JavaScriptMastery
 
 ## Available Scripts
 
